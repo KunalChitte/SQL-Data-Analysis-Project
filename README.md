@@ -1,33 +1,73 @@
-# SQL Data Analysis Project (SSMS)
+# 🗄️ SQL Data Analysis Project
 
-## 📌 Overview
-This project demonstrates advanced SQL skills using Microsoft SQL Server.
-The focus is on data analysis, complex querying, and basic performance optimization.
+## ⭐ Project Highlights
+- Performed end-to-end data analysis using SQL  
+- Applied advanced SQL techniques to extract business insights  
+- Solved real-world analytical problems using structured data  
 
-## 🛠 Tools
-- SQL Server Management Studio (SSMS)
-- SQL Server
-- GitHub
+---
 
-## 📂 Database Design
-Tables include Customers, Orders, Products, and Transactions.
+## 🚀 Project Overview
+This project focuses on analyzing structured datasets using SQL to uncover trends, patterns, and key business insights. It demonstrates strong querying skills and the ability to work with real-world data.
 
-## 🔍 SQL Concepts Used
-- Joins (INNER, LEFT)
-- GROUP BY, HAVING
-- Subqueries & CTEs
-- Window Functions
-- Indexing
-- Execution Plan Analysis
+---
 
-## ⚡ Performance Optimization
-Indexes were added on frequently filtered columns.
-Execution plans before and after indexing are included.
+## 🎯 Objectives
+- Clean and prepare raw data  
+- Perform exploratory data analysis  
+- Extract meaningful insights using SQL  
+- Answer key business questions  
 
-## ▶ How to Run
-1. Execute `schema.sql`
-2. Execute `data.sql`
-3. Run queries from `queries.sql`
+---
 
-## 👤 Author
-Kunal Chitte
+## 🛠️ Tools & Technologies
+- SQL  
+- Excel / CSV  
+
+---
+
+## 📊 Key Analysis
+
+### 🔹 Data Cleaning
+- Removed duplicates  
+- Handled missing values  
+- Standardized data formats  
+
+### 🔹 Exploratory Analysis
+- Summary statistics  
+- Trend analysis  
+- Pattern identification  
+
+### 🔹 Business Queries
+- Top-performing categories  
+- Revenue insights  
+- Customer/order analysis  
+
+---
+
+## 📈 SQL Techniques Used
+- Joins  
+- Group By & Aggregations  
+- Subqueries  
+- Window Functions  
+- Case Statements  
+
+---
+
+## 💡 Key Insights
+- Identified trends and patterns in the dataset  
+- Extracted actionable insights for decision-making  
+- Highlighted key performance drivers  
+
+---
+
+## 📊 Business Impact
+- Supports data-driven decision-making  
+- Improves understanding of business performance  
+- Enables better strategic planning  
+
+---
+
+## 👨‍💻 Author
+Kunal Chitte  
+Aspiring Data Analyst
